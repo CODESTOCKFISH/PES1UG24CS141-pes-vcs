@@ -1,0 +1,5 @@
+*.o
+pes
+test_objects
+test_tree
+
